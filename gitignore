@@ -1,0 +1,30 @@
+# Arduino build files
+build/
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+*.dll
+*.class
+*.jar
+*.zip
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# IDE
+.pio/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
